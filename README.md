@@ -1,0 +1,2 @@
+# redisclusterclient
+libredisclusterclient库是支持redis cluster版本的集群客户端库，实现了redis常用数据结构的基本命令，能自适应redis cluster的重哈希、动态伸缩和节点故障。
